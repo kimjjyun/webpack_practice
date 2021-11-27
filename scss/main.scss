@@ -1,0 +1,13 @@
+$color-b : orange;
+$color-r: red;
+$color-w : white;
+
+
+body{
+    background-color: $color-b;
+    h1{
+        color:$color-w;
+        font-size: 50px;
+        display: flex;
+    }
+}
